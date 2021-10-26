@@ -17,7 +17,6 @@ import VideoList from './components/VideoList'
 import VideoDetail from './components/VideoDetail'
 import axios from 'axios'
 
-const API_KEY = 'AIzaSyCVVunbzyKhPlwF5P_0TmDnHRgNE-lXxIk'
 
 export default {
     name: 'App',
